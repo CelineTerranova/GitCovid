@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="casestotal.js"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1.1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable(casestotal);
+
+        var options = {
+          chart: {
+            title: 'Cases/Countries',
+            subtitle: 'For 15 Most Affected Countries',
+            //hAxis: {slantedText: true, slantedTextAngle: 90}
+          }
+        };
+
+        var chart = new google.visualization.ColumnChart(document.getElementById('columnchart_material'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="columnchart_material" style="width: 1200px; height: 600px;"></div>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+deathstotal = [ ['Total Deaths Per Country','Total Deaths', { role: 'style' }],
+['Italy',16525,'red'],
+['Spain',13055,'red'],
+['United_States_of_America',10989,'red'],
+['France',8911,'red'],
+['United_Kingdom',5373,'red'],
+['Iran',3739,'red'],
+['China',3335,'red'],
+['Netherlands',1867,'red'],
+['Belgium',1632,'red'],
+['Germany',1607,'red'],
+['Turkey',649,'red'],
+['Switzerland',584,'red'],
+['Brazil',553,'red'],
+['Sweden',477,'red'],
+['Canada',323,'red']
+];

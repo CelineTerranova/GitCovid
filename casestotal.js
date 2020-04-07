@@ -1,0 +1,17 @@
+casestotal = [ ['Total Cases Per Country','Total Cases', { role: 'style' }],
+['United_States_of_America',368196,'blue'],
+['Spain',135032,'blue'],
+['Italy',132547,'blue'],
+['Germany',99225,'blue'],
+['China',82698,'blue'],
+['France',74390,'blue'],
+['Iran',60500,'blue'],
+['United_Kingdom',51608,'blue'],
+['Turkey',30217,'blue'],
+['Switzerland',21574,'blue'],
+['Belgium',20814,'blue'],
+['Netherlands',18803,'blue'],
+['Canada',16653,'blue'],
+['Austria',12297,'blue'],
+['Brazil',12056,'blue']
+];

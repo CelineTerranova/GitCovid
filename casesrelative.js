@@ -1,0 +1,17 @@
+casesrelative = [ ['Relative Cases Per Country','Relative Cases', { role: 'style' }],
+['Spain',0.0034640199783626097,'blue'],
+['Switzerland',0.00291432803192563,'blue'],
+['Italy',0.0025197379972885896,'blue'],
+['Belgium',0.0024529708630696297,'blue'],
+['United_States_of_America',0.0016198158646804682,'blue'],
+['Portugal',0.0015548891328159512,'blue'],
+['Germany',0.0014528158561600037,'blue'],
+['Netherlands',0.001416805519952769,'blue'],
+['France',0.0014001173118870214,'blue'],
+['United_Kingdom',0.0011880312637019864,'blue'],
+['Iran',0.0008560974292150555,'blue'],
+['Turkey',0.0006337120372269469,'blue'],
+['Canada',0.0006287565919466052,'blue'],
+['Brazil',9.895004535102997e-05,'blue'],
+['China',5.966483094354254e-05,'blue']
+];

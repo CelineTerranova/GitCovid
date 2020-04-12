@@ -1,0 +1,17 @@
+deathsrelative = [ ['Relative Deaths Per Country','Relative Deaths', { role: 'style' }],
+['Spain',0.00034999331924328247,'red'],
+['Italy',0.0003221841244045737,'red'],
+['Belgium',0.00029294169847351634,'red'],
+['France',0.00020648707386737689,'red'],
+['Netherlands',0.00015338618724594142,'red'],
+['United_Kingdom',0.00014852082805708391,'red'],
+['Switzerland',9.757480235818689e-05,'red'],
+['Sweden',8.710446398102753e-05,'red'],
+['United_States_of_America',6.29891543545254e-05,'red'],
+['Iran',5.326388352096984e-05,'red'],
+['Germany',3.2232810560476844e-05,'red'],
+['Canada',1.7620619481615945e-05,'red'],
+['Turkey',1.337468041073607e-05,'red'],
+['Brazil',5.365940607640165e-06,'red'],
+['China',2.400321670388374e-06,'red']
+];
